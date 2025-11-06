@@ -1,0 +1,1 @@
+Proteger la rama principal es buena práctica ya que previene cambios no revisados.
